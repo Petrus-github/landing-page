@@ -99,3 +99,22 @@ body {
     text-align: center;
     font-size: 18px;
 }
+
+.testimonials {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 300px 100px 250px;
+    background-color: #E5E7EB;
+}
+
+.testimony {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937 ;
+}
+
+.client {
+    text-align: end;
+    font-weight: bolder;
+    font-size: 26px;
+}
