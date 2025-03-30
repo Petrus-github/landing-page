@@ -24,14 +24,14 @@ body {
     color: #F9FAF8;
 }
 
-.navlink, ul, li {
+.navlink, ul, li, a {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     font-size: 18px;
     color: #E5E7EB;
-
+    text-decoration: none;
 }
 
 .hero {
