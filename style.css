@@ -118,3 +118,32 @@ body {
     font-weight: bolder;
     font-size: 26px;
 }
+
+.call-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 200px;
+    background-color: #3882f6;
+    padding: 50px 100px;
+    border-radius: 15px;
+    color: #E5E7EB;
+}
+
+.call-text> h3 {
+    font-size: 30px;
+}
+
+.call-text> p {
+    font-size: 18px;
+}
+
+.call-button> button {
+    background-color: #3882f6;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    padding: 7px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
